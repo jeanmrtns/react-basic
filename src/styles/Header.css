@@ -1,0 +1,21 @@
+header {
+    width: 0 900px;
+    background-color: orange;
+    color: white;
+}
+
+header * {
+    display: inline;
+}
+
+ul li {
+    justify-content: center;
+    font-size: 12px;
+    margin: 0 15px 35px 0;
+    list-style: none;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+}
