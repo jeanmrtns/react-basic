@@ -1,0 +1,14 @@
+.comentario {
+    background-color: #cccccc;
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+h2, h6, p {
+    margin: 5px 0 0 50px;
+    text-align: left;
+}
+
+.data {
+    font-size: 6px;
+}
