@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.addComentario {
+  margin: 10px;
+  background-color: khaki;
+  border-style: none;
+  height: 2em;
+  border-radius: 4em;
+}
+
+.addComentario:hover {
+  cursor: pointer;
+}
